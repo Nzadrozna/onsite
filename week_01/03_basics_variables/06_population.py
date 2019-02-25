@@ -9,3 +9,11 @@ for the next 3 years (without a leap year).
 Let's say the current population is 380,123,456.
 
 '''
+
+y = 3
+x = 6
+d = 12
+i  = 40
+p  = 380123456
+print(p + i + x - d)
+#but now i need to add seconds to per day
